@@ -7,8 +7,12 @@ The html file of project report is Enron_POI_identifier.html and the jupyter not
 The list of the code files are as follows:
 
 poi_id.py contains main code.
-feature_select.py is a helper code for feature selection
-feature_format.py is a helper code for formatting of data
-tuning.py has helps in tuning the parameters and evaluating the metrics for algorithms
+
+feature_select.py is a helper code for feature selection.
+
+feature_format.py is a helper code for formatting of data.
+
+tuning.py has helps in tuning the parameters and evaluating the metrics for algorithms.
+
 tester.py is for validation of madel
 
