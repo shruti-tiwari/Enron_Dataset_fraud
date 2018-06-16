@@ -1,18 +1,24 @@
+#Identifying-Fraud-from-Enron-Email
+
+## Project Description:
+
 In 2000, Enron was one of the largest companies in the United States. By 2002, it had collapsed
 into bankruptcy due to widespread corporate fraud. In the resulting Federal investigation, there
 was a significant amount of typically confidential information entered into public record, including
 tens of thousands of emails and detailed financial data for top executives.
 
-The html file of project report is Enron_POI_identifier.html and the jupyter notebook is Enron_POI_identifier.ipynb.
-The list of the code files are as follows:
+## Table of Content:
 
-poi_id.py contains main code.
+1. Enron_POI_identifier.html - The html file of project report.
+2. Enron_POI_identifier.ipynb - The jupyter notebook.
+3. poi_id.py  - contains main python code.
+4. feature_select.py - is a helper code for feature selection.
+5. feature_format.py - is a helper code for formatting of data.
+6. tuning.py - has helps in tuning the parameters and evaluating the metrics for algorithms.
+7. tester.py - is for validation of madel
 
-feature_select.py is a helper code for feature selection.
+## Running the Code:
+To see the final code and analysis use this link:
 
-feature_format.py is a helper code for formatting of data.
-
-tuning.py has helps in tuning the parameters and evaluating the metrics for algorithms.
-
-tester.py is for validation of madel
+https://github.com/shruti12912/Enron_Dataset_fraud/blob/master/Enron_POI_identifier.ipynb
 
