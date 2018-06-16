@@ -9,13 +9,12 @@ tens of thousands of emails and detailed financial data for top executives.
 
 ## Table of Content:
 
-1. Enron_POI_identifier.html - The html file of project report.
-2. Enron_POI_identifier.ipynb - The jupyter notebook.
-3. poi_id.py  - contains main python code.
-4. feature_select.py - is a helper code for feature selection.
-5. feature_format.py - is a helper code for formatting of data.
-6. tuning.py - has helps in tuning the parameters and evaluating the metrics for algorithms.
-7. tester.py - is for validation of madel
+1. Enron_POI_identifier.ipynb - The jupyter notebook.
+2. poi_id.py  - contains main python code.
+3. feature_select.py - is a helper code for feature selection.
+4. feature_format.py - is a helper code for formatting of data.
+5. tuning.py - has helps in tuning the parameters and evaluating the metrics for algorithms.
+6. tester.py - is for validation of madel
 
 ## Running the Code:
 To see the final code and analysis use this link:
